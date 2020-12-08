@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{"6U4H":function(e){e.exports=JSON.parse("{}")},L1EO:function(e,n,t){},QfWi:function(e,n,t){"use strict";t.r(n);t("L1EO"),t("6U4H");({menuItems:document.querySelector(".js-menu"),changeTems:document.querySelector("#theme-switch-toggle")}).menuItems.addEventListener("click",onGalleryClick)}},[["QfWi",1]]]);
-//# sourceMappingURL=main.871efe041008be906968.js.map
